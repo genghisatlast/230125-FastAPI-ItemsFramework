@@ -6,3 +6,8 @@ Client has the tools to do these.
 
 
 Best explanation ever!
+
+Roadmap:
+1- Assigning IDs
+2- Database integration(Sqlite3)
+3- Frontend
