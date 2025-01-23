@@ -1,0 +1,7 @@
+Client Side:
+requests
+
+Server Side:
+FastAPI, HTTPException
+Pydantic
+uvicorn

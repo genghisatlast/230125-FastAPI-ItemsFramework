@@ -1,0 +1,34 @@
+Ürün API güncelleme notları 2025-01-15 12:00:
+----------------------
+-Ürün Oluşturma
+-Ürün Silme
+-Ürün Güncelleme
+-Ürün Getirme
+
+# Endpointleri eklendi.
+----------------------
+Ürün;
+-ID(int)
+-İsim(str)
+-Fiyat(float)
+
+# Mevcut.
+----------------------
+server.py ve client.py oluşturuldu.
+FastAPI kullanıldı
+
+localhost:7777 üzerinden sunuluyor.
+client bağlantı kurdu.
+----------------------
+EK NOTLAR:
+
+-pydantic kullanıldı
+-HTTPExceptions entegre edildi.
+----------------------
+Şuan üzerinde çalışılan:
+-Client input loop.
+-FastAPI Docs.
+-Pydantic Docs.
+-Streaming?
+-Database entegrasyonu(SQLAlchemy?).
+-Terminal UI(colorama, asyncio, playsound).
